@@ -1,0 +1,43 @@
+body {
+	margin: 0 auto;
+	background-color: #ffff66 !important;
+	
+}
+
+.container {
+	align-items: center;
+	text-align: center;
+	background-color: #9900cc;
+	color: #ffff66;
+}
+.backgroundimagecontainer {
+	align-items:center;
+	text-align:center;
+}
+ul {
+	list-style-type: none;
+}
+
+li {
+	line-height: 3rem;
+}
+
+#image {
+    max-width: 100%;
+    max-height: 100%;	
+	  display: block;
+}
+p.a {
+	font-family: "Times New Roman", Times, serif;
+	font-style:italic;
+	color: white
+}
+p.b {
+	font-family: Arial, Helvetica, sans-serif;
+	font-style:oblique
+}
+
+#title {
+	font-family: 'Courier New', Courier, monospace;
+	color: yellow
+}
